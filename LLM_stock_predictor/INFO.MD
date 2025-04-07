@@ -5,6 +5,6 @@ This is an LLM that predicts future stock prices. I made it as a final project f
 
 ## Run It Yourself
 This notebook was developed in Google Colab. You can open and run it here:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1P3RtJBRp9A0cfq5YBcJviI_X9fbUtI4j?usp=sharing
+https://colab.research.google.com/drive/1P3RtJBRp9A0cfq5YBcJviI_X9fbUtI4j?usp=sharing
 
-## 🖼️ Preview
+## Preview
