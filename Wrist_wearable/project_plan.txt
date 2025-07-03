@@ -1,0 +1,19 @@
+Materals:
+Raspberry Pi
+- https://www.amazon.com/Raspberry-Pi-8GB-SC1112-Quad-core/dp/B0CK2FCG1K?crid=38JW021AUUM9Q&dib=eyJ2IjoiMSJ9.iY9RFDCzejkBNLa2pEAeAi1UbkDfm0Dey-5jj3qOWSExG6ypRaMhUZRN8i11PXMLtW24MehnM7KmTEOrmtJxLyMZr3dJuKQM3ZBRgjPkHy17u-d0B7wit47yYv4MNJU-i1NBywa4Gkn7rvfIR79yHkKppmohldu6hV-duqjIRpEwsvk9u1Kbn1JcFlA-i-lavjuvH1Y-TRsC0ZeAF0cI4kKqN0MMKFazN3Xob2RkI40.v1pI6t8DA_XTTXs6F2AhyPIM3sqtxu0Op7A4ecUZg2c&dib_tag=se&keywords=rpi+5+8gb+ram&qid=1751445267&sprefix=rpi+5+8gb+ra%2Caps%2C219&sr=8-2
+
+OLED:
+- https://www.amazon.com/DWEII-Display-SSD1309-Interface-Electronic/dp/B0B2R6892R?crid=WMHLREMC58K0&dib=eyJ2IjoiMSJ9.eqlmHsXD4GVjHJTWsWc8fYYnUF6wgwc0ETs_pHJPmHhBZAyh3F4fHf6QwB3LqPsan7NebqCe5j6bDrSY58L3oDBAcBoBCgCPnyfXhFxGW_U2QsqKcmxPUiX_i52TDFPfYIcxaA8sUyGsr2i-svtADd1OMAs2NYlQ-HBvzFZeFIkUoPA_3-q1_sUJDFH74a_6bwMMp9l_oK1EHtmGGPW6Gro0k_OqYpzAyDn1_8vlz6w.8F3EJ-g2kbZIMefxGrE_7TApWOkJcoXai8Jr-1lA1Yc&dib_tag=se&keywords=2.42-inch%2BSSD1309%2BOLED%2BDisplay&qid=1751488045&sprefix=2.42-inch%2Bssd1309%2Boled%2Bdisplay%2Caps%2C465&sr=8-4&th=1
+
+Microphone:
+- https://www.amazon.com/WWZMDiB-INMP441-Omnidirectional-Microphone-Compatible/dp/B0DB5XC1M1?crid=3DUORETE2VPLS&dib=eyJ2IjoiMSJ9.Qu798wlHgIAsZGQJKRoOJHPMNOzPB2r74gYQKgOwZewk2BLaCTrFqxw3imt5yKsh8dWZf4xBIq8I4fneZYwE4A5xLmnsTsiBP1geerfqoR5dyjs9Wi4dK760Z4P6XxcKRWjXYqfRLr35X5yquE0zMyYCTpapzIG3ndARpScc9mDnOsavSE0rRtsj21TjY7Qh73kzoa2V9l_DTfi8TSSq3R8IyrcFdCAKYwuSj_7A79w.Y_xqIWVTUgorSaSYcBDG4xAvg7Fpe44wi9gX1dYJeUY&dib_tag=se&keywords=INMP441&qid=1751445682&sprefix=i2c+microphone%2Caps%2C458&sr=8-4
+
+3d printed parts
+
+Plan:
+- cad parts
+- SSH and I2C for microphone and OLED
+- Test microphone and OLED
+- Test speech-to-text
+- Test AI with llama
+- Impliment it all and assemble
